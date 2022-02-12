@@ -24,7 +24,6 @@
 	background: linear-gradient(180deg,rgba(0,4,10,0.36) 68%,#000c0f 100%), url(../img/cover.jpg);
 	background-size: cover;
 	background-position: center;
-	z-index: 1;
 }
 .cover-invitation .modal-body{
 	display: flex !important;
@@ -101,7 +100,6 @@
 	position: relative;
 	background-color: var(--r1-theme-color);
 	padding: 1.5rem 2rem;
-	margin-top: -3px;
 } 
 .quotes img{
 	width: 100px;
@@ -195,7 +193,6 @@
 	position: relative;
 	padding: 1rem 0 3.5rem 0;
 	background-color: var(--r2-theme-color);
-	margin-top: -3px;
 }
 
 .story-line .container .title-story{
